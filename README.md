@@ -1,57 +1,51 @@
 ```text
 ┌─────────────────────────────────────────────┐
 │  jatin@github ~ $ whoami                    │
-│  independent developer · linux enthusiast   │
+│  developer · linux user · still figuring it out
 └─────────────────────────────────────────────┘
 ```
 
 # `jatin@github:~$`
 
-> Building software, understanding systems, and figuring out how things work under the hood.
+I build software, mostly because I want to know how things work.
 
-I'm an independent developer interested in systems programming, Linux, developer tools, and open-source software.
+Currently spending a lot of time with Rust, Linux, and the lower levels of the software stack. I like tools that do one thing well, code I can actually understand, and knowing what's happening underneath the abstractions.
 
-I prefer understanding the problem over blindly reaching for a solution. I learn by building, breaking things, reading source code, and occasionally wondering why something that should work absolutely refuses to.
+## `~/working-on`
 
-```sh
-$ cat /etc/interests
-rust
-linux
-systems-programming
-developer-tools
-open-source
-```
-
-## `~/currently-exploring`
-
-- **Rust** : ownership, error handling, systems programming, and building reliable tools.
-- **Low level** : currently learning and focusing on low level programming
-- **Linux** : desktop internals, Wayland, window managers, and making my environment my own.
-- **Developer tooling** : software that makes development simpler without hiding how it works.
-- **Open source** : learning from real codebases, contributing ideas, and building things other developers can use.
+- **Rust** — small tools, CLI applications, and learning the language properly.
+- **Systems** — memory, processes, operating systems, and the stuff most applications hide from you.
+- **Linux** — Arch, Wayland, window managers, and a desktop I keep tweaking instead of leaving alone.
+- **Developer tools** — building things that solve problems I actually have.
 
 ## `~/toolbox`
 
-| Area | Tools |
+| | |
 |---|---|
 | Languages | Rust, C++ |
-| Environment | Arch Linux, Wayland |
+| OS | Arch Linux |
 | Editor | Neovim |
-| Workflow | Git, Cargo, the terminal |
+| Build & version control | Cargo, Git |
 
-## `~/philosophy`
+## `~/projects`
+
+A few things I'm building and experimenting with.
+
+- **vaultd** — a local secrets manager written in Rust.
+- **filepeek** — a small utility for inspecting files.
+- **[more projects](https://github.com/Jatinchd777)** — some finished, some very much not.
+
+## `~/notes`
 
 ```text
-Read the source.
-Understand the system.
-Build the thing.
-Learn from what breaks.
-Repeat.
+read code > guess
+understand > copy
+build > overthink
+repeat.
 ```
 
-I don't want to just use software. I want to understand how it's made, why it works, and how to make it better.
+Most things here are works in progress. That's kind of the point.
 
 ```sh
-$ echo "./projects-progress"
-still building.
+$ git status --short
 ```
